@@ -1,106 +1,106 @@
 [[Libtask]]
 arch = "aarch64"
-git-tree-sha1 = "775a18bc9d3e840126c1e3dee01a5a358807a5d8"
+git-tree-sha1 = "a97cb029c0e911f5b04ea1b9298b38990cc888f5"
 libc = "glibc"
 os = "linux"
 
     [[Libtask.download]]
-    sha256 = "6eb898e04f2cd6354e03f58c18bb3b5e274b0b68465abcf9578fa0e350f1c0c8"
-    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.1+0/Libtask.v0.4.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "782aa36770f99727983c5f0955c4f5daf6d47b5ef9c8fa9503e1f5b5f8301b26"
+    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.2+0/Libtask.v0.4.2.aarch64-linux-gnu.tar.gz"
 [[Libtask]]
 arch = "aarch64"
-git-tree-sha1 = "4796d0e73b84d9052a0f76c88a21d5684f563d2f"
+git-tree-sha1 = "5f9ecad41f1c226ca5d7b350cbba9f774efa0565"
 libc = "musl"
 os = "linux"
 
     [[Libtask.download]]
-    sha256 = "df80c8245f195f0104c3c09d83dc80ad74716e091e0870baa9cf1775d9506515"
-    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.1+0/Libtask.v0.4.1.aarch64-linux-musl.tar.gz"
+    sha256 = "2449848c1dab971a4867652fc7f29d76ca87bc4e38e8ff8f3d42085583970a3f"
+    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.2+0/Libtask.v0.4.2.aarch64-linux-musl.tar.gz"
 [[Libtask]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3643055d2bb829d180adb94d91405f82f8d94b4c"
+git-tree-sha1 = "04500f1ca8a1b7d3505b0da1c30c0d2ec30eb952"
 libc = "glibc"
 os = "linux"
 
     [[Libtask.download]]
-    sha256 = "a0e10debb90c58b63f3986cd59bbbcabb9e3bed448d9972f52f4a511e5f3a338"
-    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.1+0/Libtask.v0.4.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "ed4ac5260ff61553c2a8da6a34001d276643bf3bfcfe7fda40cc49a44c8edafa"
+    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.2+0/Libtask.v0.4.2.armv7l-linux-gnueabihf.tar.gz"
 [[Libtask]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "656db95e7cb076e629919df2acc9d3e4a9c535db"
+git-tree-sha1 = "0ed5ec62afea676a2a7f93b323908e683f3bf04c"
 libc = "musl"
 os = "linux"
 
     [[Libtask.download]]
-    sha256 = "0a182ec19ab1e5981cdb64504d1790fe2b2ba83326f0968b44ce8ddcf816b349"
-    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.1+0/Libtask.v0.4.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "1941f36dfc2f0745131f4a6401f0fe5821861031a695c99f88590b5071481246"
+    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.2+0/Libtask.v0.4.2.armv7l-linux-musleabihf.tar.gz"
 [[Libtask]]
 arch = "i686"
-git-tree-sha1 = "b26c429f5b01c310d7b3a17850a6b8a80a4d5fc8"
+git-tree-sha1 = "be6329637b9ed0c1d9742838e5dda48fc0b55544"
 libc = "glibc"
 os = "linux"
 
     [[Libtask.download]]
-    sha256 = "8516b00dab9eb3ea40c235b6bcd63e53424ffafe8c6574012cfeb988cb1a3fbb"
-    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.1+0/Libtask.v0.4.1.i686-linux-gnu.tar.gz"
+    sha256 = "52942c63d59d61252ecde8dc5204befc35b19bcc3a43776963cb212f844d65fc"
+    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.2+0/Libtask.v0.4.2.i686-linux-gnu.tar.gz"
 [[Libtask]]
 arch = "i686"
-git-tree-sha1 = "b0dc89fd433afa2d7050ef043c96df1b4ed14065"
+git-tree-sha1 = "d62a27425ad0763d4b8e40b0023c783ef8732392"
 os = "windows"
 
     [[Libtask.download]]
-    sha256 = "dcaec9a25229523bb46e5a4c597add2d4f88a551b488b2fe33cb5ea4c904e167"
-    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.1+0/Libtask.v0.4.1.i686-w64-mingw32.tar.gz"
+    sha256 = "f2473e77928105fffd6dd1ad8e4ecb110ba8661ec8441fa45eb1bc930b12eaf2"
+    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.2+0/Libtask.v0.4.2.i686-w64-mingw32.tar.gz"
 [[Libtask]]
 arch = "powerpc64le"
-git-tree-sha1 = "3764812f32366d6db101854df883b25c1e190d90"
+git-tree-sha1 = "776901cac791d36e951fbc71d3c5b2e36770e708"
 libc = "glibc"
 os = "linux"
 
     [[Libtask.download]]
-    sha256 = "86c13d767a34b00d624c3f6a72bc25303d160643985c5b2bb8dff01f7f5cb29f"
-    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.1+0/Libtask.v0.4.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "4c43c426492d03a9e8a95627f375ff96c9f63e2e5ab0a6c286de9b0f7a6b0fd1"
+    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.2+0/Libtask.v0.4.2.powerpc64le-linux-gnu.tar.gz"
 [[Libtask]]
 arch = "x86_64"
-git-tree-sha1 = "029f8db38904f04c3b8f756239f7e5a8cde8a83b"
+git-tree-sha1 = "bac28271bcb24ebf5e3bd04e3c3c89eb05efc4dc"
 os = "macos"
 
     [[Libtask.download]]
-    sha256 = "9dff0aaf0d9863246fa7d66d261606e7610a5b04cea12b9c7baf448e4f731ec0"
-    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.1+0/Libtask.v0.4.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "89655b838974061873dadddbd4c857b624c43a3c3960c8a901cd557032389850"
+    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.2+0/Libtask.v0.4.2.x86_64-apple-darwin.tar.gz"
 [[Libtask]]
 arch = "x86_64"
-git-tree-sha1 = "b329b94ccaa40f6aa00e1834f293469407329828"
+git-tree-sha1 = "3a7ec305dc9781ab97154d5cdb5a3135448671db"
 libc = "glibc"
 os = "linux"
 
     [[Libtask.download]]
-    sha256 = "c6963033d1f0cce640e0e0d189f71de22ca4c79df7834bbfdf5f2e72315cd3eb"
-    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.1+0/Libtask.v0.4.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "c0ea9dce4b0b669fac55467222e1d08b7fdaf3d99dcdab8a42a83e1b144c6318"
+    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.2+0/Libtask.v0.4.2.x86_64-linux-gnu.tar.gz"
 [[Libtask]]
 arch = "x86_64"
-git-tree-sha1 = "3002f7dd2471eb07e4cd7eb75939d9424d04bb4d"
+git-tree-sha1 = "9b4fa383ab57c9c0cd25e2e00be1164e2fddad58"
 libc = "musl"
 os = "linux"
 
     [[Libtask.download]]
-    sha256 = "7bf7e98ecd043d4722a8b75cc8999e9db39ef3decf1215a6919b77aed859b276"
-    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.1+0/Libtask.v0.4.1.x86_64-linux-musl.tar.gz"
+    sha256 = "a09347dbe4290c7dcda763f495dc3804b462ba1ba5eb5092a3316a8ea6a171e0"
+    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.2+0/Libtask.v0.4.2.x86_64-linux-musl.tar.gz"
 [[Libtask]]
 arch = "x86_64"
-git-tree-sha1 = "6590e982113ed438cdbb42029e23c81186a6b804"
+git-tree-sha1 = "a41bee374bc1b9d89a93b7eed116bb4e5781be11"
 os = "freebsd"
 
     [[Libtask.download]]
-    sha256 = "1ca47eccf79aa0dea96f852295a05a5ad28e4f93b7ddfa2126a6429e804ba3e1"
-    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.1+0/Libtask.v0.4.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "94cba917ffba6a95e568ab90bf0e691237db266d59efd2c8b2e5c24dad314256"
+    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.2+0/Libtask.v0.4.2.x86_64-unknown-freebsd.tar.gz"
 [[Libtask]]
 arch = "x86_64"
-git-tree-sha1 = "ad85b2577dec2212db3c2e60a17f35549a6d731c"
+git-tree-sha1 = "51de7b5cbbf030cc554134f7ad865135133ce88f"
 os = "windows"
 
     [[Libtask.download]]
-    sha256 = "a073014d473494e36b24f8ce05894d0d78a1189152fdf5b71cd81ddbe71c20b6"
-    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.1+0/Libtask.v0.4.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "a79e7e8eebe83c5f76ddc87adc5a923df651249e282254454cf99ddbeacfabfe"
+    url = "https://github.com/JuliaBinaryWrappers/Libtask_jll.jl/releases/download/Libtask-v0.4.2+0/Libtask.v0.4.2.x86_64-w64-mingw32.tar.gz"
